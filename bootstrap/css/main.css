@@ -1,0 +1,24 @@
+
+.center {
+    color: #fff;
+    border: 2px solid blue;
+    margin: 40px auto;
+    height: 50px 20px;
+    width: 20%;
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+
+.sample {
+    direction: rtl;
+    text-indent: 20px;
+    word-spacing: 2px;
+    -webkit-transform: ;
+    -ms-transform: ;
+    -o-transform: ;
+    transform: translate(rotateY(-50deg);
+}
+
+input {
+    direction: rtl;
+}
